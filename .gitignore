@@ -104,3 +104,4 @@ Session.vim
 tags
 
 docs/static/mkdocs_build
+.venv
