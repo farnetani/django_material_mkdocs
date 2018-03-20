@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\web-mkdocs\farnetani-mkdocs-django-com-senha\.venv"
+set "VIRTUAL_ENV=C:\web-mkdocs\mkdocs-junior\django_material_mkdocs\.venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"

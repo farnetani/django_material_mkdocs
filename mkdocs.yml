@@ -7,12 +7,12 @@ site_dir: 'docs/static/mkdocs_build'
 
 site_name: MkDocs Farnetani
 site_description: Documentação Pessoal de Arlei F. Farnetani Junior
-site_author: Martin Donath
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_author: Arlei F. Farnetani Junior
+site_url: https://farnetani.github.io/
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: farnetani/django_material_mkdocs
+repo_url: https://github.com/farnetani/django_material_mkdocs
 edit_uri: ""
 
 # Copyright
@@ -32,7 +32,7 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: en
+  language: pt
   feature:
     tabs: true
   palette:
@@ -49,13 +49,13 @@ theme:
 extra:
   social:
     - type: globe
-      link: http://struct.cc
+      link: https://farnetani.github.io
     - type: github-alt
-      link: https://github.com/squidfunk
+      link: https://github.com/farnetani
     - type: twitter
-      link: https://twitter.com/squidfunk
+      link: https://twitter.com/farnetani
     - type: linkedin
-      link: https://linkedin.com/in/squidfunk
+      link: https://linkedin.com/in/farnetani
 
 # Extensions
 markdown_extensions:
@@ -87,21 +87,6 @@ markdown_extensions:
 
 # Page tree
 pages:
-  - Material: index.md
-  - Getting started: getting-started.md
-  - Extensions:
-    - Admonition: extensions/admonition.md
-    - CodeHilite: extensions/codehilite.md
-    - Footnotes: extensions/footnotes.md
-    - Metadata: extensions/metadata.md
-    - Permalinks: extensions/permalinks.md
-    - PyMdown: extensions/pymdown.md
-  - Specimen: specimen.md
-  - Customization: customization.md
-  - Release notes: release-notes.md
-  - Author's notes: authors-notes.md
-  - Contributing: contributing.md
-  - License: license.md
 
 # Google Analytics
 google_analytics:
