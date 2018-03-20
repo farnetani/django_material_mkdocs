@@ -11,6 +11,8 @@ farnetani@gmail.com
 # DEMO
 https://farnetani.github.io/estudos/
 
+https://farnetani.github.io/estudos/Django/00.%20Agradecimentos/
+
 **Instalação:**
 
 * Requer python version `3.4` or `3.5` ou superior
