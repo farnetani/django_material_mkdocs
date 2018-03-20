@@ -7,6 +7,10 @@ Simplesmente une 2 projetos: django_mkdocs + mkdocs-material
 Arlei F. Farnetani Junior
 farnetani@gmail.com
 
+
+# DEMO
+https://farnetani.github.io/estudos/
+
 **Instalação:**
 
 * Requer python version `3.4` or `3.5` ou superior
